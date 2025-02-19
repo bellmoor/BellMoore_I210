@@ -7,9 +7,15 @@ header {
    width: 100%;
 }
 
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .title p {
     margin-top: -20px;
     font-size: smaller;
+    
 }
 
 body {
@@ -21,9 +27,16 @@ body {
     background-color: rgb(173, 230, 192);
 
 }
-
+h1 {
+    background-image: url(https://wallpapercave.com/wp/wp4566768.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px;
+    color: white;
+}
 h1, h2, h3, h4 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    
 
 
 }
