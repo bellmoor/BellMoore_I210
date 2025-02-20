@@ -15,5 +15,4 @@ I chose to write an april fools blog post about discovering fluffy life on Mars 
 - I added a hero image using css by using background-image with a url to the image and background-repeat: no-repeat; background-size: cover; so that the image fit into the space. I used padding to make the hero image a more fitting size for the page.
 
 ### Live Link
-
-[Blog Page]https://github.com/bellmoor/BellMoore_I210/tree/main/homework-2
+[Blog Page](https://github.com/bellmoor/BellMoore_I210/tree/main/homework-2)
