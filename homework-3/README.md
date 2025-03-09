@@ -1,5 +1,5 @@
 
-[HomePage]https://bellmoor.github.io/BellMoore_I210/homework-3/index.html
+[HomePage]https://bellmoor.github.io/BellMoore_I210/index.html
 
 
 key takeaways
