@@ -1,5 +1,6 @@
 
-[HomePage](https://bellmoor.github.iu.edu/{BellMoore_I210}/homework-3/)
+[HomePage]https://bellmoor.github.io/BellMoore_I210/homework-3/index.html
+
 
 key takeaways
 - how to connect js files and html files to eachother and refernce specific elements
