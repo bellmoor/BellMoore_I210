@@ -9,4 +9,4 @@ key takeaways
 
 notes
 - make sure js file is referenced correctly
-- use documet.createElement to create element on seperate script
+- use documet.createElement to create element on seperate script.
