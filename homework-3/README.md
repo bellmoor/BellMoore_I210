@@ -1,4 +1,11 @@
-link the live link for your index.html (home page)
-https://{username}.github.io/{repo-name}/homework-3
-or  
-[HomePage]https://bellmoor/BellMoore_I210/blob/main/homework-3/index.html
+
+[HomePage](https://{bellmoor}.github.io/{BellMoore_I210}/homework-3/index.html)
+
+key takeaways
+- how to connect js files and html files to eachother and refernce specific elements
+-How to add elements onto webpage using js without it physically existing in HTML
+- looping over lists to show data
+
+notes
+- make sure js file is referenced correctly
+- use documet.createElement to create element on seperate script
