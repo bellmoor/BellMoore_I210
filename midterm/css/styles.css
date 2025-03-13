@@ -32,13 +32,14 @@ nav {
 
 nav ul {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     gap: 40px;
     text-decoration: none;
     height: 50px;
     list-style: none;
     padding: 0px 20px;
+    list-style: none;
 }
 
 nav ul li a {
@@ -46,10 +47,13 @@ nav ul li a {
     text-decoration: none;
     list-style: none;
     color: black;
+    text-decoration: black;
     display: flex;
-    justify-content: space-betweens;
+    justify-content: space-evenly;
     font-family: Arial, Helvetica, sans-serif;
     align-items: center;
+
+
 }
 
 body>ul {
@@ -67,7 +71,7 @@ img {
 
 .hero {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 
@@ -120,4 +124,8 @@ h3 {
     display: flex;
     justify-content: space-evenly;
     width: 10%;
+}
+
+.catSec {
+    width: 900px;
 }

@@ -2,7 +2,9 @@ const photos = [
     "https://fastly.picsum.photos/id/804/300/400.jpg",
     "https://fastly.picsum.photos/id/185/300/400.jpg",
     "https://fastly.picsum.photos/id/229/300/400.jpg",
-    "https://fastly.picsum.photos/id/211/300/400.jpg"
+    "https://fastly.picsum.photos/id/211/300/400.jpg",
+    "https://fastly.picsum.photos/id/229/300/400.jpg",
+    "https://fastly.picsum.photos/id/229/300/400.jpg",
 ];
 
 const products = [
