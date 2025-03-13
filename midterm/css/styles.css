@@ -32,6 +32,7 @@ nav {
 
 nav ul {
     display: flex;
+    justify-content: space-between;
     align-items: center;
     gap: 40px;
     text-decoration: none;
@@ -43,15 +44,16 @@ nav ul {
 nav ul li a {
     font-size: 24px;
     text-decoration: none;
+    list-style: none;
     color: black;
     display: flex;
     justify-content: space-betweens;
-    align-content: center;
     font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
 }
 
 body>ul {
-    margin: auto;
+    
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -74,6 +76,11 @@ button {
     color: white;
     background-color: darkslategray;
     text-decoration: none;
+    font-size: smaller;
+    border-style:solid;
+    border-color: darkslategrey;
+    border-radius: 20px;
+    
     
 }
 
@@ -90,7 +97,7 @@ h2 {
     height: 40%;
 }
 
-abtHero {
+.abtHero {
    padding-top: 10px; 
 }
 
